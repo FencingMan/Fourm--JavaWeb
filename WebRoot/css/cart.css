@@ -1,0 +1,51 @@
+/*全局样式*/
+*{margin: 0px;padding: 0px;}
+li{list-style: none;}
+a{text-decoration: none;}
+img{border: none; vertical-align: bottom;}
+
+.cart-title{
+	width: 1000px;
+	text-align: center;
+	margin: 50px auto 20px; 
+	line-height: 50px;
+	border-bottom: 2px solid gray;
+}
+table{
+	width: 1000px;
+	margin:0 auto;
+}
+table th{
+	border-bottom: 2px solid gray;
+	padding-bottom: 5px;
+	
+}
+table td{
+	text-align: center;
+	padding: 10px 0px;
+	border-bottom: 2px solid gray;
+}
+.goods-img{
+	width: 80px;
+	vertical-align: top;
+}
+.minus,.add,.number{
+	width: 20px;height: 20px;
+	display: inline-block;
+	margin: 0px 5px;
+	line-height: 20px;
+	text-align: center;
+	cursor: pointer;
+}
+.number{
+	border-bottom: 2px solid gray;
+	
+}
+.all-price{
+	width: 1000px;
+	margin: 0 auto;
+	line-height: 80px;
+}
+.all-price span{
+	color: red;
+}

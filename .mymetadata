@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cnmd"
+  id="myeclipse.1570942160975"
+  context-root="/cnmd"
+  j2ee-spec="6.0"
+  archive="cnmd.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
